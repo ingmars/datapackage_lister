@@ -1,0 +1,114 @@
+{
+	"Time series": {
+		"_url": "/time_series/",
+		"Prices": {
+			"AT": 2015,
+			"BE": 2015,
+			"CH": 2015,
+			"CZ": 2015,
+			"DE": 2005,
+			"DK": 2006,
+			"ES": 2015,
+			"FI": 2015,
+			"FR": 2015,
+			"IT": 2015,
+			"NL": 2015,
+			"NO": 2006,
+			"PL": 2015,
+			"SE": 2006,
+			"UK": 2015,
+			"20+ more": true
+		},
+		"Load": {
+			"AT": 2006,
+			"BE": 2006,
+			"CH": 2007,
+			"CZ": 2006,
+			"DE": 2006,
+			"DK": 2010,
+			"ES": 2006,
+			"FI": 2010,
+			"FR": 2006,
+			"IT": 2006,
+			"NL": 2006,
+			"NO": 2006,
+			"PL": 2008,
+			"SE": 2005,
+			"UK": 2011,
+			"20+ more": true
+		},
+		"Wind": {
+			"AT": 2015,
+			"BE": 2015,
+			"CH": 2015,
+			"CZ": 2012,
+			"DE": 2012,
+			"DK": 2014,
+			"ES": 2015,
+			"FI": 2015,
+			"FR": 2015,
+			"IT": 2015,
+			"NL": 2015,
+			"NO": 2015,
+			"PL": 2013,
+			"SE": 2005,
+			"UK": 2015,
+			"20+ more": true
+		},
+		"Solar": {
+			"AT": 2015,
+			"BE": 2015,
+			"CH": 2015,
+			"CZ": 2012,
+			"DE": 2012,
+			"DK": 2014,
+			"ES": 2015,
+			"FI": 2015,
+			"FR": 2015,
+			"IT": 2015,
+			"NL": 2015,
+			"NO": 2015,
+			"PL": 2015,
+			"SE": 2011,
+			"UK": 2015,
+			"20+ more": true
+		}
+	},
+	"List of power plants": {
+		"Renewable": {
+			"_url": "/renewable_power_plants/",
+			"FR": true,
+			"DK": "Wind, solar",
+			"DE": "EEG plants",
+			"PL": true,
+			"CH": "KEV plants"
+		},
+		"Conventional": {
+			"_url": "/conventional_power_plants/",
+			"AT": true,
+			"BE": true,
+			"CH": "Hydro, nuclear",
+			"CZ": "> 100 MW",
+			"DE": "> 10 MW",
+			"DK": true,
+			"ES": true,
+			"FI": true,
+			"FR": true,
+			"IT": true,
+			"NL": true,
+			"NO": "> 100 MW",
+			"PL": "Centrally dispatched units",
+			"SE": "> 100 MW",
+			"UK": true,
+			"20+ more": true
+		}
+	},
+	"National<br>generation<br>capacity": {
+		"_url": "/national_generation_capacity/",
+		"_all": true
+	},
+	"Weather<br>data": {
+		"_url": "/weather_data/",
+		"_all": true
+	}
+}
