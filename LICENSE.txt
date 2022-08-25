@@ -1,4 +1,4 @@
-This program is free software and dual licensed under GPLv3 and Apache 2.0 license, as for the details stated below.
+This program is free software and dual licensed under GPLv3 and Apache 2.0 license at the user's choice, as for the details stated below.
 
 
 ===== Apache-2.0 ==========
